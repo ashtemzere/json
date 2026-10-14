@@ -1,6 +1,20 @@
 {
     "apps": [
         {
+            "id": "-8047",
+            "name": "GTA V Port",
+            "bundleID": "io.github.playgta5ios.app",
+            "version": "1.3.1",
+            "size": 209873720,
+            "localizedDescription_ar": "ملفات لعبة gta 5 موجودة على قناة ipasoon الرسمية على تيليجرام",
+            "localizedDescription_en": "l",
+            "category_ar": "العاب",
+            "category_en": "Games",
+            "versionDate": "2026-10-13T15:44:47",
+            "iconURL": "https://ipasoon.icu/Appjson/images/589f4f2c20cd45e0a56aff9f7bc2b5dc.png",
+            "type": 6
+        },
+        {
             "id": "-9885",
             "name": "Muguet",
             "bundleID": "vn.iosvn.muguet",
@@ -1385,25 +1399,11 @@
             "versionDate": "2026-10-12 09:30:32",
             "iconURL": "https://public-cdn.check0ver.com/E669C4F905734AED2E9E/116613/512x512bb.jpg",
             "type": 3
-        },
-        {
-            "id": "9ceb9cd5-dea4-4b2f-b6c8-c6df63209779",
-            "name": "Automatic Screenshot Stitcher",
-            "bundleID": "com.jarustudios.StitchPhotos",
-            "version": "1.0.296",
-            "size": 10076815,
-            "localizedDescription_ar": "للتعديل على الصور\n\n- مفتوح المميزات",
-            "localizedDescription_en": "To edit photos\n\n- Unlocked features",
-            "category_ar": "التصميم",
-            "category_en": "Design",
-            "versionDate": "2026-10-12 09:27:27",
-            "iconURL": "https://public-cdn.check0ver.com/E669C4F905734AED2E9E/114602/512x512bb.jpg",
-            "type": 3
         }
     ],
-    "total_apps": 10840,
-    "nord_apps_count": 91,
+    "total_apps": 10841,
+    "nord_apps_count": 92,
     "db_apps_count": 10749,
-    "total_all_apps": 10840,
+    "total_all_apps": 10841,
     "total_hidden_apps": 0
 }
