@@ -1,6 +1,20 @@
 {
     "apps": [
         {
+            "id": "-5463",
+            "name": "Sifu",
+            "bundleID": "com.keplerinteractive.sifu",
+            "version": "1.0.254260",
+            "size": 1170203645,
+            "localizedDescription_ar": "",
+            "localizedDescription_en": "",
+            "category_ar": "العاب",
+            "category_en": "Games",
+            "versionDate": "2026-10-15T05:46:22",
+            "iconURL": "https://ipasoon.icu/Appjson/images/f0c0e34b9662fb1479efdd751ef1d8d6.png",
+            "type": 6
+        },
+        {
             "id": "-8047",
             "name": "GTA V Port",
             "bundleID": "io.github.playgta5ios.app",
@@ -1385,25 +1399,11 @@
             "versionDate": "2026-10-12 09:31:18",
             "iconURL": "https://public-cdn.check0ver.com/E669C4F905734AED2E9E/114610/512x512bb.jpg",
             "type": 3
-        },
-        {
-            "id": "9cab72e8-2b35-4df0-af5f-3d35e63a75e2",
-            "name": "PureStatus: ByeBye Blur Status",
-            "bundleID": "com.damtechdesigns.wa.story",
-            "version": "2026.10",
-            "size": 39227228,
-            "localizedDescription_ar": "تقليل حجم الفيديو/الصورة مع الحد الأدنى من فقدان الجودة\n\n- مفتوح المميزات",
-            "localizedDescription_en": "Reduce Video/Photo size with minimal loss in quality\n\n• Premium PreActivated",
-            "category_ar": "التصميم",
-            "category_en": "Design",
-            "versionDate": "2026-10-12 09:30:32",
-            "iconURL": "https://public-cdn.check0ver.com/E669C4F905734AED2E9E/116613/512x512bb.jpg",
-            "type": 3
         }
     ],
-    "total_apps": 10841,
-    "nord_apps_count": 92,
+    "total_apps": 10842,
+    "nord_apps_count": 93,
     "db_apps_count": 10749,
-    "total_all_apps": 10841,
+    "total_all_apps": 10842,
     "total_hidden_apps": 0
 }
